@@ -33,10 +33,10 @@ You can use datasets from the *__sample_dataset__* folder, which has some select
     pip install virtualenv
 
     # For Python 2
-    virtualenv 2d3denv
+    python -m virtualenv 2d3denv
 
     # For Python 3
-    venv 2d3denv
+    python -m venv 2d3denv
   ```
 
 * Activate virtual environment
