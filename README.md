@@ -18,49 +18,49 @@ You can use datasets from the *__sample_dataset__* folder, which has some select
 * Clone the project
 
   ```DOS
-    git clone https://github.com/NazareSahil/2D3D
+  git clone https://github.com/NazareSahil/2D3D
   ```
 
 * Go to the project directory
 
   ```DOS
-    cd 2D3D
+  cd 2D3D
   ```
 
 * Create virtual environment
 
   ```DOS
-    pip install virtualenv
+  pip install virtualenv
 
-    # For Python 2
-    python -m virtualenv 2d3denv
+  # For Python 2
+  python -m virtualenv 2d3denv
 
-    # For Python 3
-    python -m venv 2d3denv
+  # For Python 3
+  python -m venv 2d3denv
   ```
 
 * Activate virtual environment
 
   ```DOS
-    .\2d3denv\Scripts\activate
+  .\2d3denv\Scripts\activate
   ```
 
 * Install required libraries
 
   ```DOS
-    pip install -r requirements.txt
+  pip install -r requirements.txt
   ```
 
 * Create an empty *uploads* folder
 
   ```DOS
-    mkdir uploads
+  mkdir uploads
   ```
 
 * Run the project
 
   ```DOS
-    python 2d3d.py
+  python 2d3d.py
   ```
 
 * Copy the localhost link onto the browser and you are good to go!
